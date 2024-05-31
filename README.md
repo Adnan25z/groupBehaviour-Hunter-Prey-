@@ -3,6 +3,7 @@
 ## Introduction
 
 This project simulates the group behavior of hunters and prey using emergent behavior principles. Developed in Python, the simulation demonstrates how individual actions of agents (hunters and prey) lead to complex group behaviors.
+![Gameplay Image](group.gif)
 
 ## Table of Contents
 
